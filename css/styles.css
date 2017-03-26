@@ -83,7 +83,7 @@ body {
 		padding: 12px;
 		border-bottom: 1px solid #e8e8e8;
 	}
-
+#tweet-controls {}
 /* DASHBOARD */
 #dashboard {
 	border-radius: 6px;
@@ -258,5 +258,3 @@ body {
 				top: 0;
 				left: 0;
 			}
-
-
